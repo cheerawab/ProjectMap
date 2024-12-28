@@ -11,5 +11,8 @@
     "name": "Cheer_awa",
     "link": "https://github.com/cheerawab/"
     },
-    "link": "https://github.com/cheerawab/ProjectMap"
+    "link": "https://github.com/cheerawab/ProjectMap",
+    "resources": [
+        "lang"
+    ]
 }
