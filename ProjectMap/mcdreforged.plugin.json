@@ -1,0 +1,15 @@
+{
+    "id": "project_map",
+    "version": "1.0.0",
+	"name":	"ProjectMap",
+    "description": {
+        "en": "This is a project location recorder plugin for MCDR",
+        "zh_cn": "这是一个用于MCDR的工程地点记录器插件",
+		"zh_tw": "這是一個用於MCDR的工程地點記錄器插件"
+    },
+    "author": {
+    "name": "Cheer_awa",
+    "link": "https://github.com/cheerawab/"
+    },
+    "link": "https://github.com/cheerawab/ProjectMap"
+}
